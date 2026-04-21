@@ -72,7 +72,7 @@ This model was rigorously evaluated, and the research findings have been documen
 
 Due to the decoupled architecture, please follow this sequence to run the system locally:
 
-1. **Run the Backend:** Visit the ⚙️ [Backend API Server]([LINK_REPO_BACKEND]) and follow the `README.md` instructions there to start the FastAPI server on `localhost:8000`.
+1. **Run the Backend:** Visit the ⚙️ [Backend API Server]([https://github.com/RPriago/SignLanguage_Project]) and follow the `README.md` instructions there to start the FastAPI server on `localhost:8000`.
 2. **Run the Frontend:** Visit the 💻 [Frontend Client App]([LINK_REPO_FRONTEND]) and run `npm start` to open the camera interface in your browser.
 3. *(Optional)* **Explore the Model:** Visit the 🧠 [Model & Training Engine]([LINK_REPO_TRAINING]) if you wish to experiment with the dataset or retrain the model with new parameters.
 
